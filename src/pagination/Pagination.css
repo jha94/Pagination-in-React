@@ -1,0 +1,14 @@
+.pageWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page{
+    height: 30px;
+    width: 30px;
+    background-color: aquamarine;
+    margin-right: 5px;
+    border-radius: 5px;
+    
+}
